@@ -1,5 +1,6 @@
 # Reimplementing AlexNet using pyTorch and VOC 2007 dataset
 
+As a part of Codable machine learning focus group, I implemented AlexNet using pyTorch where I used VOC 2007 dataset to train 20 different classes
 
 ## Optimized results
 
